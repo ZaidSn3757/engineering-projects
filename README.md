@@ -2,7 +2,7 @@
 
 CAD files, simulation results and notes from my mechanical engineering projects at University College Dublin.
 
-- Portfolio: [portfolio.zaidsniaz.workers.dev](https://portfolio.zaidsniaz.workers.dev)
+- Portfolio: [zaidsniaz.com](https://zaidsniaz.com)
 - LinkedIn: [linkedin.com/in/zaid-niaz](https://www.linkedin.com/in/zaid-niaz/)
 
 | Project | What it is | Tools |

@@ -2,7 +2,7 @@
 
 Design module team project at UCD. The brief was a 500 × 500 mm plate that splits a flow of water evenly across its inside, with no dead zones, few preferred channels, and as little of the plate's inner area taken up as possible. Every design was tested with steady-state CFD in SimScale.
 
-Full write-up: [case study on my portfolio](https://portfolio.zaidsniaz.workers.dev/projects/liquid-distribution-plate)
+Full write-up: [case study on my portfolio](https://zaidsniaz.com/projects/liquid-distribution-plate)
 
 <p>
   <img src="images/final-design.svg" alt="Plan view of the final design" height="380">
